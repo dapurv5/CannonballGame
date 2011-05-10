@@ -1,0 +1,7 @@
+This was made by me at the end of my first year. It can be directly opened as a netbeans project. You might be required to tune in your netbeans.
+
+Right click the project, go to Properties.
+Now under Python subselection, Add the path of your current python installation. In windows it is by default in C:\Python32.
+
+Also remember to use Python version 3.
+You may encounter a few error messages when you close the window, simply ignore them for present they do not affect any functionality of the game.
